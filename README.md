@@ -1,4 +1,4 @@
 mysupersweetprommitzvah
 =======================
 
-Repository of tools for throwing an open sourced party that is a combination of Sweet Sixteen, Prom, and Bar/Bat Mitzvah
+Repository of tools for throwing open source parties that are a combination of Sweet Sixteens, Proms, and Bar/Bat Mitzvahs. 
